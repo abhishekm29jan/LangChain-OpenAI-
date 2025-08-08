@@ -1,4 +1,4 @@
-# 🤖 LangChain Project
+# 🤖 LangChain (Open AI)
 
 Welcome to the **LangChain Playground**! 🎯
 This repository showcases powerful AI workflows built using **[LangChain](https://github.com/langchain-ai/langchain)** — a framework designed to create intelligent LLM-based applications such as chatbots, agents, document Q\&A systems, and more.
