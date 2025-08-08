@@ -65,6 +65,8 @@ Explore the building blocks of LLM-powered apps through:
 * 📚 FAISS / Chroma / Pinecone (for vector storage)
 * 🖼️ Streamlit / Gradio (optional UI)
 
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
